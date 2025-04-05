@@ -8,7 +8,7 @@ Whether you're looking for motivation, wisdom, or peace, this app uplifts your d
 - 💫 Clean, elegant UI built with Flutter
 - 🔁 Tap for a new quote experience
 - 💡 Lightweight and fast
-....................................................................................................................
+
 ### Prerequisites
 
 - [Flutter](https://flutter.dev/docs/get-started/install)

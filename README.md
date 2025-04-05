@@ -15,6 +15,4 @@ Whether you're looking for motivation, wisdom, or peace, this app uplifts your d
 - Dart SDK
   
 .....................................................................................................................
- 🛠️ Tech Stack
--Flutter
--Dart
+

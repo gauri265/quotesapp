@@ -1,0 +1,30 @@
+name: quotesapp
+description: A simple quotes app.
+
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Ensure this matches your Flutter version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  flutter_colorpicker: ^1.0.3
+  audioplayers: ^6.4.0
+  shared_preferences: any
+  
+ 
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/tap.mp3

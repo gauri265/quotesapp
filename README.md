@@ -3,7 +3,6 @@ Quotes App
 A beautiful, minimal Flutter app that delivers handpicked, meaningful quotes right at your fingertips.
 Whether you're looking for motivation, wisdom, or peace, this app uplifts your day — one quote at a time.
 ---
-....................................................................................................................
 ## ✨ Features
 - 📖 Browse a curated list of inspiring quotes
 - 💫 Clean, elegant UI built with Flutter
